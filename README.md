@@ -1,6 +1,6 @@
 <div align="center">
     
-[![Typing SVG]([https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3DF7E2&center=true&vCenter=true&random=false&width=435&lines=PROFAAA;A+Front-End+Developer](https://readme-typing-svg.demolab.com?font=Roboto+Black+900&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=FIVEM+DEVELOPER;MASTER+IN+LUA;FRONT-END+DEVELOPER;from+Croatia...))](https://github.com/PROFAAA)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3DF7E2&center=true&vCenter=true&random=false&width=435&lines=PROFAAA;A+Front-End+Developer)](https://github.com/PROFAAA)
 </div>
 
     
