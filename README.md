@@ -6,7 +6,7 @@
 ###  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" height="20"> **aboutMe.js**
 
 ```javascript
-const guf1ck  = {
+const profaaa  = {
     pronouns: "Ante Vene",
     age: 31,
     gender: "Male",
