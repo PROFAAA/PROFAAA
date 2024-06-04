@@ -1,5 +1,5 @@
 <div align="center">
-    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Black+900&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=FIVEM+DEVELOPER;MASTER+IN+LUA;FRONT-END+DEVELOPER;from+Croatia...)][(https://git.io/typing-svg)](https://github.com/PROFAAA))
+    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Black+900&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=FIVEM+DEVELOPER;MASTER+IN+LUA;FRONT-END+DEVELOPER;from+Croatia...)](https://git.io/typing-svg)
 </div>
     
 ###  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" height="20"> **aboutMe.js**
